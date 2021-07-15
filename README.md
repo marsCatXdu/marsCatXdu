@@ -1,4 +1,6 @@
-- 目前工作于 统信软件（西安），为自主可控事业添砖加瓦
+- 目前工作于 统信软件（西安）
+- 热爱操作系统
+- ~~老二刺螈了~~ 二不起来了
 <!--
 **marsCatXdu/marsCatXdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
