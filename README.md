@@ -1,17 +1,10 @@
-- 目前工作于 统信软件（西安）
-- 热爱操作系统
+- 独立开发者
+- 涉猎技术栈：
+  - 前端：Vue3, Element Plus
+  - 混合 App：Ionic + Angular + Cordova
+  - 后端：SpringBoot, Flask
+  - 桌面：Qt
+  - 其他：RPM 打包、应用移植适配、各种 Python 小工具开发
+- 【曾经】工作于 统信软件（西安），参与服务器版系统研发
+- 【依旧】热爱操作系统
 - ~~老二刺螈了~~ 二不起来了
-<!--
-**marsCatXdu/marsCatXdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
