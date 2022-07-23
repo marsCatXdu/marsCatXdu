@@ -4,7 +4,8 @@
   - 混合 App：Ionic + Angular + Cordova
   - 后端：SpringBoot, Flask
   - 桌面：Qt
-  - 其他：RPM 打包、应用移植适配、各种 Python 小工具开发
+  - 区块链：Ethereum （ Protocol ）
+  - 其他：RPM 打包、应用移植适配、各种小工具开发
 - 【曾经】工作于 统信软件（西安），参与服务器版系统研发
 - 【依旧】热爱操作系统
 - ~~老二刺螈了~~ 二不起来了
