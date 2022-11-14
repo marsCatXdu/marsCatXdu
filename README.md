@@ -1,7 +1,7 @@
 - 涉猎技术栈：
   - Linux 应用：cpp + cmake
   - 前端：Vue3, Element Plus
-  - 混合 App：ionic + Angular + Cordova
+  - 混合 App：ionic + Angular/Vue + Capacitor/Cordova
   - 后端：SpringBoot, Flask
   - 桌面：Qt5 C++ Widget
   - 区块链：Ethereum （ Aleth，cpp-ethereum ）
