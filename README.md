@@ -6,6 +6,9 @@
 - 后端：SpringBoot, Flask
 - 区块链：Ethereum （ Aleth，cpp-ethereum ）
 
+若您对我的技术感兴趣，可以参考我的 [知乎文章列表](https://www.zhihu.com/people/li-jing-wei-78/posts) 和 [掘金文章列表](https://juejin.cn/user/1996368848621319/posts) 。近期文本基本都是译文，但基本可以较为详细地说明我使用过、关注过、学习过的技术
+
+
 ### 工作经历
 - [香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)（2023 至今，研究助理 ~~临时工~~ ）
   - 参与校企合作项目开发
