@@ -9,7 +9,7 @@
 
 
 ### 工作经历
-- [香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)（2023 至今，研究助理 ~~临时工~~ ）
+- [香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)（2023 至今，研究助理）
   - 参与校企合作项目开发
   - 主要技术：嵌入式 Linux 应用开发
 - [广州链融信息技术有限公司](https://www.lianronginfo.com/) （广州，2022-2023）
