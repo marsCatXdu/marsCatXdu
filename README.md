@@ -2,10 +2,10 @@
 
 ### Used Programing Technology Stack:
 - Linux Application Development (Desktop, Server, Embedded). Familiar with Linux networking subsystem, including protocol stack, netfilter and wireless subsystem.
-- Desktop Application Development: Qt C++ Widget
-- Hybrid Application: ionic + Angular/Vue + Capacitor/Cordova
-- Frontend: Vue3, ElementPlus
-- Backend: SpringBoot, Flask
+- Desktop Application Development: Qt C++ Widget.
+- Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
+- Frontend: Vue3, ElementPlus.
+- Backend: SpringBoot, Flask.
 
 ### Work Experience
 - [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China, 2023-2024, **Research Assistant**
@@ -17,7 +17,7 @@
 - [UnionTech Software](https://uos.uniontech.com/About.html) - Xi'an, China, 2021-2022. **System R&D Engineer**
   - Server Operating System feature development, system software proting (x86 to AArch64), bugfix, etc.
 - Xi'an Lianrong Technology Co., Ltd. (Acquired by Guangzhou Lianrong mentioned above) - Xi'an, China, 2018-2019. **Intern**
-  - Blockchain platform system source code analyse and feature development (Fork from Ethereum, adding anonymous transcation feature based on zero-knowledge proof)
+  - Blockchain platform system source code analyse and feature development (Fork from Ethereum, adding anonymous transcation feature based on zero-knowledge proof).
 
 ### Education
 - PhD student in IoT: [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China. 2024-
