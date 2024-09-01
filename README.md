@@ -1,7 +1,7 @@
 > 中文版请向下翻 Scroll down for Chinese Ver.
 
 ### Used Programing Technology Stack:
-- Linux Application Development (Desktop, Server, Embedded). Familiar with Linux networking subsystem, including protocol stack, netfilter and wireless subsystem.
+- Linux System and Application Development (Desktop, Server, Embedded). Familiar with Linux networking subsystem, including protocol stack, netfilter and wireless subsystem.
 - Desktop Application Development: Qt C++ Widget.
 - Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
 - Frontend: Vue3, ElementPlus.
