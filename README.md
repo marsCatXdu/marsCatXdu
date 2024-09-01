@@ -1,4 +1,4 @@
-> 中文版请向下翻
+> 中文版请向下翻 Scroll down for Chinese Ver.
 
 ### Used Programing Technology Stack:
 - Linux Application Development (Desktop, Server, Embedded). Familiar with Linux networking subsystem, including protocol stack, netfilter and wireless subsystem.
@@ -13,16 +13,18 @@
   - Work including technology roadmap survey and design, feasibility verification, system design, feature design, writing patents, coding, testing, on-site support, etc. 
 - [Guangzhou Lianrong Information Technology Co., Ltd.](https://www.lianronginfo.com/) - Guangzhou, China, 2022-2023. **R&D Team Leader**
   - Leading R&D team woking on innovation product prototype design and development.
-  - Product involves [Secure Multi-Party Computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation), IoT and Blockchain.
+  - Product involves secure multi-party computation (based on homomorphic/semi-homomorphic encryption), IoT and Blockchain.
 - [UnionTech Software](https://uos.uniontech.com/About.html) - Xi'an, China, 2021-2022. **System R&D Engineer**
   - Server Operating System feature development, system software proting (x86 to AArch64), bugfix, etc.
 - Xi'an Lianrong Technology Co., Ltd. (Acquired by Guangzhou Lianrong mentioned above) - Xi'an, China, 2018-2019. **Intern**
-  - Blockchain platform system source code analyse and development (Fork from Ethereum, adding anonymous transcation feature based on zero-knowledge proof)
+  - Blockchain platform system source code analyse and feature development (Fork from Ethereum, adding anonymous transcation feature based on zero-knowledge proof)
 
 ### Education
 - PhD student in IoT: [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China. 2024-
 - BEng in Computer Science and Engineering: Xidian University, Xi'an, China. 2017-2021
 
+### Granted Patent:
+- An Method and a System for Seamless Roaming in Mesh Network - CN118233979B - First Inventor
 
 ### 涉猎技术栈（按熟练度降序）：
 - Linux 应用开发（包括桌面、服务器、嵌入式设备等）
@@ -48,3 +50,6 @@
 ### 教育经历
 - PhD 在读（2024 - ），于 [香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn), 信息枢纽 - 物联网学域
 - 本科：西安电子科技大学 计算机科学与技术专业 （2017-2021）
+
+### 已授权专利
+- 一种在Mesh网络中无缝漫游的方法及系统 - CN118233979B - 第一发明人
