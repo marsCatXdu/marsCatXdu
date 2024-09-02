@@ -21,10 +21,10 @@
 
 ### Education
 - PhD student in IoT: [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China. 2024-
-- BEng in Computer Science and Engineering: Xidian University, Xi'an, China. 2017-2021
+- BEng in Computer Science and Engineering: [Xidian University](https://en.xidian.edu.cn/), Xi'an, China. 2017-2021
 
 ### Granted Patent:
-- An Method and a System for Seamless Roaming in Mesh Network - CN118233979B - First Inventor
+- A Method and a System for Seamless Roaming in Mesh Network - CN118233979B - First Inventor
 
 ### 涉猎技术栈（按熟练度降序）：
 - Linux 应用开发（包括桌面、服务器、嵌入式设备等）
@@ -49,7 +49,7 @@
  
 ### 教育经历
 - PhD 在读（2024 - ），于 [香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn), 信息枢纽 - 物联网学域
-- 本科：西安电子科技大学 计算机科学与技术专业 （2017-2021）
+- 本科：[西安电子科技大学](https://www.xidian.edu.cn/) 计算机科学与技术专业 （2017-2021）
 
 ### 已授权专利
 - 一种在Mesh网络中无缝漫游的方法及系统 - CN118233979B - 第一发明人
