@@ -23,5 +23,5 @@
 
 ### Patents:
 - A Method and a System for Seamless Roaming in Mesh Network - CN118233979B - First Inventor - Granted
-- A Method and a System for Multi-Gateway Data Processing in LAN - CN118488512A - First Inventor - Filed
+- A Method and a System for Multi-Gateway Data Processing in LAN - CN118488512A - First Inventor - Granted
 - A Method and an Equipment for Traffic Load-Balancing in Mesh Network - CN118524445A - First Inventor - Filed
