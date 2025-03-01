@@ -1,10 +1,10 @@
 ### Used Programing Technology Stack:
-- Linux System and Application (Desktop, Server, OpenWRT Router, Embedded). Familiar with Linux networking subsystem, including protocol stack and netfilter.
-- NS-3 Network Simulation: Wi-Fi & LR-WPAN simulation development, model capability development, custom application development 
-- Desktop Application: Qt C++ Widget.
+- Linux System Customization (Kernel & System-wise) and Application Development (Desktop, Server, OpenWRT Router). 
+- NS-3 Network Simulation: Wi-Fi & LR-WPAN simulation development, model capability development, custom application development. 
+- Desktop Application: Qt C++ Widget. Windows UWP (RIP...).
+- Embedded: Espressif ESP-32 S3 (IDF FreeRTOS), Nordic nRF52840 (OpenWSN).
 - Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
-- Frontend: Vue3, ElementPlus.
-- Backend: SpringBoot, Flask.
+- Web: Frontend - Vue3 + ElementPlus, Angular, AngularJS, ionic. Backend: SpringBoot, Python Flask.
 
 ### Work Experience
 - [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China, 2023-2024, **Research Assistant**
