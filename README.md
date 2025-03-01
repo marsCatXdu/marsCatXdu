@@ -5,6 +5,7 @@
 - Embedded: Espressif ESP-32 S3 (IDF FreeRTOS), Nordic nRF52840 (OpenWSN).
 - Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
 - Web: Frontend - Vue3 + ElementPlus, Angular, AngularJS, ionic. Backend: SpringBoot, Python Flask.
+- Games (long ago, around 2016): Unity3D.
 
 ### Work Experience
 - [The Hong Kong University of Science and Technology - Guangzhou (HKUST-GZ)](https://www.hkust-gz.edu.cn/) - Guangzhou, China, 2023-2024, **Research Assistant**
