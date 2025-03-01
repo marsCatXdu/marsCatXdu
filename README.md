@@ -1,5 +1,6 @@
 ### Used Programing Technology Stack:
-- Linux System and Application (Desktop, Server, Router, Embedded). Familiar with Linux networking subsystem, including protocol stack and netfilter.
+- Linux System and Application (Desktop, Server, OpenWRT Router, Embedded). Familiar with Linux networking subsystem, including protocol stack and netfilter.
+- NS-3 Network Simulation: Wi-Fi & LR-WPAN simulation development, model capability development, custom application development 
 - Desktop Application: Qt C++ Widget.
 - Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
 - Frontend: Vue3, ElementPlus.
