@@ -2,7 +2,7 @@
 - Linux System Customization (Kernel & System-wise) and Application Development (Desktop, Server, OpenWRT Router). 
 - NS-3 Network Simulation: Wi-Fi & LR-WPAN simulation development, model capability development, custom application development. 
 - Desktop Application: Qt C++ Widget. Windows UWP (RIP...).
-- Embedded: Espressif ESP-32 S3 (IDF FreeRTOS), Nordic nRF52840 (OpenWSN).
+- Embedded: Espressif ESP-32 S3 (IDF FreeRTOS) with onboard AI, Nordic nRF52840 (OpenWSN).
 - Smart Phone Application: Hybrid for Android & iOS (ionic + Angular/Vue + Capacitor/Cordova). Native Android.
 - Web: Frontend - Vue3 + ElementPlus, Angular, AngularJS, ionic. Backend: SpringBoot, Python Flask.
 - Games (long ago, around 2016): Unity3D.
