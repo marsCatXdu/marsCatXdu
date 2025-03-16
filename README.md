@@ -26,4 +26,4 @@
 ### Patents (as First Inventor) :
 - Granted CN118233979B: A Method and a System for Seamless Roaming in Mesh Network (一种在Mesh网络中无缝漫游的方法及系统)
 - Granted CN118488512B: A Method and a System for Multi-Gateway Data Processing in LAN (一种局域网中多网关处理数据的方法及系统)
-- Filed CN118524445A: A Method and an Equipment for Traffic Load-Balancing in Mesh Network (一种Mesh网络中流量负载均衡方法和装置)
+- Granted CN118524445B: A Method and an Equipment for Traffic Load-Balancing in Mesh Network (一种Mesh网络中流量负载均衡方法和装置)
