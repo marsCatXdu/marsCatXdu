@@ -1,5 +1,8 @@
 ### Used Programing Technology Stack:
-- Linux System Customization (Kernel & System-wise) and Application Development (Desktop, Server, OpenWRT Router). 
+- Linux Environment Development:
+  - System Customization: Kernel & system-wise.
+  - Kernel Module Development: Especially familiar with netfilter framework, nftables expression development for complex networking functions.
+  - Application Development: Desktop, Server, OpenWRT Router. 
 - NS-3 Network Simulation: Wi-Fi & LR-WPAN simulation development, model capability development, custom application development. 
 - Desktop Application: Qt C++ Widget. Windows UWP (RIP...).
 - Embedded: Espressif ESP-32 S3 (IDF FreeRTOS & Arduino) with onboard AI, Nordic nRF52840 (OpenWSN).
